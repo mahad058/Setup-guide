@@ -5,7 +5,7 @@ The given setup guide is for Linux operating system.
 
 Download and install the android studio from Ubuntu Software App or from the official [Link](https://developer.android.com/studio)
 
-Go to Tools > Android SDK
+After installation Go to **Tools > Android SDK**
 
 **1.** In SDK Platforms tab make sure **Android 9.0(pie) API Level 28** is installed.
 
