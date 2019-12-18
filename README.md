@@ -44,5 +44,3 @@ pip3 install conan
 ```
 
 
-## Usage
-
